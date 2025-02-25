@@ -98,6 +98,9 @@
     <genAiFunctions>
         <functionName>SvcCopilotTmpl__VerifyCustomer</functionName>
     </genAiFunctions>
+    <genAiFunctions>
+        <functionName>Check_Weather</functionName>
+    </genAiFunctions>
     <genAiPluginInstructions>
         <description>Never ask the user for an ID. Instead, ask for a record that&apos;s relevant.</description>
         <developerName>instruction_neveraskth0</developerName>
