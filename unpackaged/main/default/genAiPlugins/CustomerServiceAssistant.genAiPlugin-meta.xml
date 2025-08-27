@@ -98,10 +98,19 @@
     <genAiFunctions>
         <functionName>SvcCopilotTmpl__VerifyCustomer</functionName>
     </genAiFunctions>
+    <genAiFunctions>
+        <functionName>Check_Weather</functionName>
+    </genAiFunctions>
+    <genAiFunctions>
+        <functionName>Issue_Bulk_Resort_Credits</functionName>
+    </genAiFunctions>
+    <genAiFunctions>
+        <functionName>Generate_Personalized_Schedule</functionName>
+    </genAiFunctions>
     <genAiPluginInstructions>
-        <description>Never ask the user for an ID. Instead, ask for a record that&apos;s relevant.</description>
+        <description>Never ask the user for an ID. Instead, ask for a record that&#39;s relevant.</description>
         <developerName>instruction_neveraskth0</developerName>
-        <language xsi:nil="true"/>
+        <language xsi:nil="true" />
         <masterLabel>instruction_neveraskth0</masterLabel>
     </genAiPluginInstructions>
     <language>en_US</language>
